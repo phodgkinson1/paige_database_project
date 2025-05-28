@@ -1,6 +1,7 @@
 # paige_database_project
 Simple storage repo for public viewing of my database modeling project. 
-SQL files and final report are included.
+SQL files, .mwb diagram, and final report are included.
+AQ_DB establishes the database to specifications, and the inserts file inserts and manipulates sample data.
 
 Architected and semantically modeled a robust relational database for air quality control, improving EPA AQS standards for efficient querying and distributed SQL scalability.
 Designed and implemented a comprehensive Entity Establishment Relationship Diagram (EER) using SQL Workbench, 
